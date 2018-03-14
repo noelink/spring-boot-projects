@@ -1,0 +1,6 @@
+com\ngo\examples\SpringBootJPAMySQL\model\Automovil.class
+com\ngo\examples\SpringBootJPAMySQL\restcontrollers\AutosController.class
+com\ngo\examples\SpringBootJPAMySQL\service\AutosService.class
+com\ngo\examples\SpringBootJPAMySQL\service\impl\AutosServiceImpl.class
+com\ngo\examples\SpringBootJPAMySQL\repository\AutosRepository.class
+com\ngo\examples\SpringBootJPAMySQL\SpringBootJpaMySqlApplication.class
