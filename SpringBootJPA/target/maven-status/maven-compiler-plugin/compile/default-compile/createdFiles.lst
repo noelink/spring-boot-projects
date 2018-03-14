@@ -1,0 +1,6 @@
+com\ngo\examples\SpringBootJPA\restcontrollers\AutosController.class
+com\ngo\examples\SpringBootJPA\service\AutosService.class
+com\ngo\examples\SpringBootJPA\service\impl\AutosServiceImpl.class
+com\ngo\examples\SpringBootJPA\model\Automovil.class
+com\ngo\examples\SpringBootJPA\repository\AutosRepository.class
+com\ngo\examples\SpringBootJPA\SpringBootJpaApplication.class

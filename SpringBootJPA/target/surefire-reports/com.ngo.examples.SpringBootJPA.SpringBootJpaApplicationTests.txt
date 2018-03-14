@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ngo.examples.SpringBootJPA.SpringBootJpaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.089 sec - in com.ngo.examples.SpringBootJPA.SpringBootJpaApplicationTests
